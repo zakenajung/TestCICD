@@ -1,0 +1,5 @@
+com\xxx\restful\ServletInitializer.class
+com\log\Logging.class
+com\xxx\restful\service\CosmetricController.class
+com\xxx\restful\XTestRestFulApplication.class
+com\xxx\dto\Cosmetic.class
